@@ -1,5 +1,7 @@
 #100DaysOfCode Challenge
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pon-Dinesh-kumar&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
+
 Exciting news! I'm starting the #100DaysOfCode challenge today with the goal of becoming a Full Stack Web Developer. I'm eager to learn everything I can about web development and to become proficient in HTML, CSS, JavaScript, and more.
 
 This challenge is not only an opportunity for me to improve my coding skills but also a chance to push myself to consistently dedicate time each day to my personal and professional growth. I'm committed to learning as much as I can over the next 100 days, and I'm looking forward to sharing my progress with you all along the way.
