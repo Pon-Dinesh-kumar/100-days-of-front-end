@@ -360,5 +360,21 @@ Day 15 was dedicated to diving deeper into JavaScript. It was fascinating to und
 
 #100DaysOfCode #JavaScript #FunctionalProgramming #WebDevelopment
 
+Day 16 [ 17.05.2023 ] - UI/UX Design with Figma
+Today's Progress
+Explored the world of UI/UX design with Figma.
+- Learned about Figma's interface and its design tools.
+- Created artboards, wireframes, and prototypes.
+- Explored collaboration features in Figma.
+- Gained insights into creating visually appealing user interfaces.
+
+Thoughts
+Day 16 was an exciting journey into the realm of UI/UX design using Figma. It's amazing how Figma empowers designers to bring their ideas to life and collaborate seamlessly. I'm looking forward to diving deeper into UI/UX design and exploring more advanced features of Figma.
+
+Progress
+I will be tracking my progress on this GitHub repository.
+
+#100DaysOfCode #UIUXDesign #Figma #WebDevelopment
+
 
 
