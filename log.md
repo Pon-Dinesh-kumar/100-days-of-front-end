@@ -376,5 +376,24 @@ I will be tracking my progress on this GitHub repository.
 
 #100DaysOfCode #UIUXDesign #Figma #WebDevelopment
 
+## Day 17 [ 18.05.2023 ] - Introduction to Object-Oriented Programming
+
+**Today's Progress:**
+Explored the basics of object-oriented programming (OOP), focusing on classes and OOP principles.
+
+**Topics Covered:**
+- Introduction to object-oriented programming
+- Classes
+- Object-oriented programming principles
+
+**Thoughts:**
+Diving into object-oriented programming was exciting. I gained a solid understanding of how objects encapsulate data and behavior, promoting code reusability and maintainability. Looking forward to applying these concepts in my future projects.
+
+**Progress:**
+I will be tracking my progress on this GitHub repository.
+
+#100DaysOfCode #coding #webdevelopment #OOP #classes #learning
+
+
 
 
