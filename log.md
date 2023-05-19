@@ -394,6 +394,22 @@ I will be tracking my progress on this GitHub repository.
 
 #100DaysOfCode #coding #webdevelopment #OOP #classes #learning
 
+## Day 18 [ 19.05.2023 ] - Declaring Variables, Data Types, and Operators in JavaScript
+
+**Today's Progress:**
+- Explored the basics of declaring variables in JavaScript.
+- Learned about different data types in JavaScript, such as numbers, strings, booleans, and more.
+- Explored various operators in JavaScript, including arithmetic, comparison, and logical operators.
+
+**Thoughts:**
+Day 18 was focused on understanding the fundamentals of declaring variables and working with different data types and operators in JavaScript. It's fascinating to see how variables and data types play a crucial role in programming. I'm excited to continue building my JavaScript skills and explore more advanced concepts.
+
+**Progress:**
+I will be tracking my progress on this GitHub repository.
+
+#100DaysOfCode #JavaScript #WebDevelopment
+
+
 
 
 
