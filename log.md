@@ -409,23 +409,23 @@ I will be tracking my progress on this GitHub repository.
 
 #100DaysOfCode #JavaScript #WebDevelopment
 
-git commit -m "Day 19 [ 20.05.2023 ] - JavaScript: Numbers, Strings, Booleans, and Operators
+## Day 19 [ 20.05.2023 ] - JavaScript: Numbers, Strings, Booleans, and Operators
 
-Today's Progress:
+**Today's Progress:**
 Explored the depths of numbers, strings, booleans, and operators in JavaScript. Dived into advanced concepts and their practical applications.
 
-Topics Covered:
+**Topics Covered:**
 - Advanced operations with numbers
 - Manipulating strings and string methods
 - Understanding boolean values and logical operators
 
-Thoughts:
+**Thoughts:**
 Day 19 was all about mastering the fundamentals of numbers, strings, booleans, and operators in JavaScript. The deep dive into these concepts has provided me with a solid understanding of their usage in real-world scenarios. Excited to leverage this knowledge in my future projects!
 
-Progress:
+**Progress:**
 I will be tracking my progress on this GitHub repository.
 
-#100DaysOfCode #JavaScript #WebDevelopment"
+#100DaysOfCode #JavaScript #WebDevelopment
 
 
 
