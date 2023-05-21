@@ -428,6 +428,19 @@ I will be tracking my progress on this GitHub repository.
 #100DaysOfCode #JavaScript #WebDevelopment
 
 
+### Day 20 [21.06.2023]: JavaScript - Writing Statements and Conditional Statements
+
+- [x] Covered writing statements in JavaScript.
+- [x] Explored working with conditional statements.
+- [x] Implemented various conditional examples.
+
+Thoughts:
+Today's focus on writing statements and conditional statements in JavaScript was insightful. I learned how to structure code using statements and leverage conditional statements for decision-making. It's fascinating to see how these concepts enhance the functionality of my JavaScript programs.
+
+Progress:
+Continuing my journey with JavaScript and excited to delve deeper into its features and possibilities.
+
+#100DaysOfCode #JavaScript #WebDevelopment
 
 
 
