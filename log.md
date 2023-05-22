@@ -443,4 +443,17 @@ Continuing my journey with JavaScript and excited to delve deeper into its featu
 #100DaysOfCode #JavaScript #WebDevelopment
 
 
+Day 21 [ 22.06.2023 ] - Looping Constructs and For Loop
+
+Today's Progress
+✅ Explored looping constructs in JavaScript.
+✅ Learned about the for loop and its implementation.
+
+Thoughts
+Day 21 was dedicated to understanding and practicing looping constructs in JavaScript. The for loop is a powerful tool for repeating tasks and iterating over data. It opens up new possibilities for creating dynamic and efficient code.
+
+Progress
+I am making steady progress in my #100DaysOfCode challenge and expanding my JavaScript skills.
+
+#JavaScript #WebDevelopment
 
