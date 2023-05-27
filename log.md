@@ -516,3 +516,19 @@ Day 25 was dedicated to practicing and mastering loops in JavaScript. By working
 - Explored advanced loop techniques.
 
 ## #100DaysOfCode #JavaScript #Loops #Coding
+
+## Day 26 - Nested Loops in JavaScript
+
+**Today's Progress:**
+- Explored the concept of nested loops in JavaScript.
+- Learned how to iterate over multi-dimensional arrays.
+- Implemented nested loops to create patterns and shapes.
+
+**Thoughts:**
+Day 26 was all about mastering nested loops in JavaScript. It's fascinating to see how these loops can be used to solve complex problems and manipulate data in multi-dimensional arrays. I'm excited to apply this knowledge to future projects and enhance my coding skills.
+
+**Progress:**
+I will be tracking my progress on this GitHub repository.
+
+#100DaysOfCode #JavaScript #NestedLoops #Coding #LearningInProgress
+
