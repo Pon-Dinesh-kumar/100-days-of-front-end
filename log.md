@@ -532,3 +532,19 @@ I will be tracking my progress on this GitHub repository.
 
 #100DaysOfCode #JavaScript #NestedLoops #Coding #LearningInProgress
 
+## Day 28 - Functions and Arrays
+
+**Today's Progress:**
+- Explored functions in JavaScript, understanding their role in modular and reusable code.
+- Learned how to store and manipulate data using arrays, a powerful data structure.
+
+**Thoughts:**
+Day 28 was focused on functions and arrays in JavaScript. Functions are essential for creating modular and reusable code, while arrays provide a versatile way to store and manipulate data. Excited to continue exploring these concepts and applying them in my projects!
+
+**Progress:**
+I will be tracking my progress on this GitHub repository.
+
+#100DaysOfCode #JavaScript #Functions #Arrays
+
+
+
