@@ -552,6 +552,23 @@ I will be tracking my progress on this GitHub repository.
 - Explored JavaScript functions - building and calling.
 - Learned to create custom functions and invoke them.
 
+
+## Day 30-31 [DD.MM.YYYY - DD.MM.YYYY] - Recap and Practice
+
+**Topics Covered:**
+- Day 30: No new topics covered as I was traveling.
+- Day 31: Practiced and reinforced the concepts learned on Day 29 - working with JavaScript functions.
+
+**Progress:**
+- Day 30: Took a break from learning due to travel.
+- Day 31: Dedicated time to practice and solidify my understanding of JavaScript functions.
+
+**Thoughts:**
+Although I couldn't learn anything new on Day 30, I made up for it by revisiting and practicing the concepts from Day 29. Consistency and practice are key to mastering programming skills!
+
+**#100DaysOfCode #JavaScript #CodingJourney**
+
+
 **Thoughts:**
 Excited to leverage functions in my JavaScript projects!
 
