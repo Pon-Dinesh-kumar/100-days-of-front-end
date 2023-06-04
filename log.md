@@ -607,3 +607,19 @@ Continuing my learning and coding journey with #100DaysOfCode.
 
 #JavaScript #Objects #DotNotation #BracketNotation #CodingCommunity
 
+
+## Day 34 [29.05.2023] - Arrays, Objects, and Math Object in JavaScript
+
+### Today's Progress:
+- Explored arrays and objects in JavaScript.
+- Learned how to create, access, and manipulate arrays and objects.
+- Explored the Math object in JavaScript and its useful mathematical functions.
+
+### Thoughts:
+Day 34 was an exciting exploration of arrays, objects, and the Math object in JavaScript. These concepts provide powerful tools for organizing and manipulating data, as well as performing mathematical calculations within the code.
+
+### Progress:
+Continuing my coding journey and expanding my JavaScript skills with #100DaysOfCode.
+
+#JavaScript #Arrays #Objects #MathObject #CodingCommunity
+
