@@ -623,3 +623,17 @@ Continuing my coding journey and expanding my JavaScript skills with #100DaysOfC
 
 #JavaScript #Arrays #Objects #MathObject #CodingCommunity
 
+# Day 35 [21.06.2023] - Error Handling in JavaScript
+
+## Today's Progress
+- Explored error handling in JavaScript.
+- Learned about different types of errors: syntax errors, logical errors, and runtime errors.
+- Discovered techniques for effectively identifying and handling errors.
+
+## Thoughts
+Day 35 was dedicated to understanding error handling in JavaScript. It's crucial to have the skills to identify and resolve errors to build robust and reliable code. Excited to continue my coding journey!
+
+## Progress
+I will be tracking my progress on this GitHub repository.
+
+## #100DaysOfCode #JavaScript #ErrorHandling #BugBusting
