@@ -637,3 +637,19 @@ Day 35 was dedicated to understanding error handling in JavaScript. It's crucial
 I will be tracking my progress on this GitHub repository.
 
 ## #100DaysOfCode #JavaScript #ErrorHandling #BugBusting
+
+
+# Day 36 [22.06.2023] - Error Prevention and Defensive Programming in JavaScript
+
+## Today's Progress
+- Explored error prevention and defensive programming techniques in JavaScript.
+- Learned strategies to proactively prevent errors and handle unexpected scenarios.
+- Implemented defensive coding practices to enhance code reliability and maintainability.
+
+## Thoughts
+Day 36 was focused on error prevention and defensive programming in JavaScript. By applying defensive coding techniques, we can minimize the occurrence of errors and build more resilient applications. Looking forward to applying these principles in my future projects!
+
+## Progress
+I will be tracking my progress on this GitHub repository.
+
+## #100DaysOfCode #JavaScript #ErrorPrevention #DefensiveProgramming
