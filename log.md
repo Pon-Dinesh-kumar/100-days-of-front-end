@@ -653,3 +653,18 @@ Day 36 was focused on error prevention and defensive programming in JavaScript. 
 I will be tracking my progress on this GitHub repository.
 
 ## #100DaysOfCode #JavaScript #ErrorPrevention #DefensiveProgramming
+
+
+### Day 37: Introduction to Functional Programming and Returning Values
+
+- Topics Covered:
+  - Introduction to functional programming
+  - Returning values through functions
+
+Thoughts: 
+Day 37 was an eye-opening experience as I delved into the world of functional programming in JavaScript. I discovered the power of writing code in a functional style, leveraging concepts such as pure functions, immutability, and higher-order functions. Understanding how to effectively use functions and return values will undoubtedly enhance the clarity and maintainability of my code. I'm excited to apply these newfound principles in my future projects and continue exploring the possibilities of functional programming.
+
+Progress: Today's exploration of functional programming and returning values through functions was a significant step forward in my coding journey. I feel more confident in my understanding of these concepts and look forward to incorporating them into my upcoming coding challenges and projects.
+
+#100DaysOfCode #JavaScript #FunctionalProgramming #CodingJourney
+
