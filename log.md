@@ -668,3 +668,20 @@ Progress: Today's exploration of functional programming and returning values thr
 
 #100DaysOfCode #JavaScript #FunctionalProgramming #CodingJourney
 
+### Day 38: Function Calling and Recursive Functions
+
+- Topics Covered:
+  - Function calling in JavaScript
+  - Recursive functions
+
+Today's Progress:
+- Explored different ways to call functions in JavaScript, including regular function calls, method calls, and constructor calls.
+- Dived into the concept of recursive functions, which are functions that call themselves within their own body. Learned how to write recursive functions and leverage them for solving complex problems.
+
+Thoughts:
+Day 38 was an exciting exploration of function calling and recursive functions in JavaScript. Understanding the various ways to call functions allows for more flexible and modular code structure. Recursive functions, in particular, provide elegant solutions to problems that involve repetition and self-referential logic. I'm eager to apply these concepts in my future projects and continue honing my programming skills.
+
+Progress:
+Today's journey into function calling and recursive functions has expanded my understanding of JavaScript's capabilities. I feel more confident in my ability to design and implement functions to achieve specific tasks. I'm excited to further explore advanced topics in JavaScript and continue pushing the boundaries of my coding knowledge.
+
+#100DaysOfCode #JavaScript #FunctionCalling #RecursiveFunctions #CodingJourney
