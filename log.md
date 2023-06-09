@@ -685,3 +685,24 @@ Progress:
 Today's journey into function calling and recursive functions has expanded my understanding of JavaScript's capabilities. I feel more confident in my ability to design and implement functions to achieve specific tasks. I'm excited to further explore advanced topics in JavaScript and continue pushing the boundaries of my coding knowledge.
 
 #100DaysOfCode #JavaScript #FunctionCalling #RecursiveFunctions #CodingJourney
+
+
+### Day 39: Introduction to Scope and Functional Programming
+
+Date: [DD.MM.YYYY]
+
+Today's Progress:
+- Explored the concept of scope in JavaScript and how it affects variable accessibility.
+- Learned about lexical scope, global scope, and function scope.
+- Studied the benefits and principles of functional programming in JavaScript.
+
+Thoughts:
+Understanding scope and functional programming principles has been an eye-opening experience. It has provided me with a better understanding of how variables are accessed and manipulated in JavaScript, and how functional programming can make my code more modular and maintainable.
+
+Today's Progress:
+- Explored the concept of scope in JavaScript.
+- Learned about functional programming and its benefits.
+
+Looking forward to applying these concepts in my future projects!
+
+#100DaysOfCode #JavaScript #Scope #FunctionalProgramming
