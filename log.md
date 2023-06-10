@@ -706,3 +706,24 @@ Today's Progress:
 Looking forward to applying these concepts in my future projects!
 
 #100DaysOfCode #JavaScript #Scope #FunctionalProgramming
+
+
+### Day 40: Scoping with var, let, and const
+
+Date: [DD.MM.YYYY]
+
+Today's Progress:
+- Explored scoping in JavaScript using var, let, and const.
+- Learned about the differences between var, let, and const in terms of hoisting, block scope, and reassignment.
+- Compared the use cases and best practices for var, let, and const.
+
+Thoughts:
+Understanding the differences between var, let, and const has been crucial for writing more reliable and maintainable code. The introduction of let and const in ES6 has provided better control over variable scoping and immutability. It's important to choose the appropriate variable declaration based on the specific requirements of each situation.
+
+Today's Progress:
+- Explored scoping with var, let, and const.
+- Compared the use cases and best practices for each.
+
+Excited to continue deepening my understanding of JavaScript scoping!
+
+#100DaysOfCode #JavaScript #Scoping #VarLetConst
