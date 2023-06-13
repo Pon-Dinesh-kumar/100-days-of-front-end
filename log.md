@@ -756,3 +756,18 @@ Progress:
 Continuing my coding journey, I'm making steady progress and expanding my JavaScript skills.
 
 #100DaysOfCode #JavaScript #SpreadOperator #Arrays #Objects #CodingJourney
+
+### Day 43 [19.05.2023]: Rest Operator in JavaScript
+
+Today's Progress:
+✅ Explored the rest operator in JavaScript.
+✅ Learned how to use the rest operator to gather remaining function arguments into an array.
+✅ Explored its applications in function parameter destructuring and array manipulation.
+
+Thoughts:
+Day 43 was dedicated to mastering the rest operator in JavaScript. It's a powerful feature that allows for flexible function arguments and array manipulation. I'm excited to apply this knowledge to create more versatile and efficient code.
+
+Progress:
+Continuing my coding journey, I'm expanding my JavaScript skills and exploring different language features.
+
+#100DaysOfCode #JavaScript #RestOperator #FunctionArguments #ArrayManipulation #CodingJourney
