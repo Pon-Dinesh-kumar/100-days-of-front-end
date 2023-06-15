@@ -784,3 +784,16 @@ Continuing my coding journey, I'm expanding my JavaScript skills and exploring d
 **Progress:** I am excited about applying my knowledge of JavaScript modules and DOM manipulation in future projects.
 
 #100DaysOfCode #JavaScript #Modules #DOMManipulation
+
+## Day 45: JavaScript Interactivity and Selectors
+
+**Today's Progress:**
+- Explored JavaScript interactivity to make web pages more dynamic and responsive.
+- Learned about JavaScript selectors to target and manipulate specific elements in the DOM.
+
+**Thoughts:** JavaScript interactivity allows for engaging user experiences and enhanced functionality on web pages. JavaScript selectors provide a convenient way to access and modify specific elements in the DOM.
+
+**Progress:** I am excited to leverage JavaScript interactivity and selectors to create interactive and user-friendly web applications.
+
+#100DaysOfCode #JavaScript #Interactivity #Selectors #WebDevelopment
+
