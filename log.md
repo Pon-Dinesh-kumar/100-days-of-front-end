@@ -819,3 +819,18 @@ Thoughts:
 Node.js and npm are powerful tools for server-side JavaScript development. Excited to dive deeper into building applications with these technologies!
 
 #100DaysOfCode #NodeJS #npm #JavaScript #WebDevelopment
+
+
+Day 47 [ DD.MM.YYYY ] - Introduction to Jest and Writing Tests
+
+Today's Progress:
+- Explored Jest, a popular JavaScript testing framework.
+- Learned how to write tests using Jest for improved code quality and reliability.
+
+Thoughts:
+Day 47 was dedicated to understanding the importance of testing and how Jest simplifies the process. Writing tests with Jest ensures that my code behaves as expected, leading to more robust applications. Looking forward to utilizing Jest for testing in future projects.
+
+Progress:
+I will be tracking my progress on this GitHub repository.
+
+#100DaysOfCode #Jest #JavaScript #Testing #CodeQuality
