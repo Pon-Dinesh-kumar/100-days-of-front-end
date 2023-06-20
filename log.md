@@ -850,3 +850,14 @@ Progress:
 I will be tracking my progress on this GitHub repository.
 
 #100DaysOfCode #TDD #Testing #JavaScript #CodeQuality
+
+## Day 49: Semantic Tags in HTML
+
+- Explored Semantic Tags in HTML.
+- Learned the importance of using semantic tags to improve the structure and accessibility of web pages.
+
+Excited to create more meaningful and accessible web content using semantic tags!
+
+Date: [DD.MM.YYYY]
+
+#100DaysOfCode #HTML #SemanticTags #WebDevelopment #Accessibility
