@@ -861,3 +861,21 @@ Excited to create more meaningful and accessible web content using semantic tags
 Date: [DD.MM.YYYY]
 
 #100DaysOfCode #HTML #SemanticTags #WebDevelopment #Accessibility
+
+
+### Day 50: Metadata in HTML [17.05.2023]
+
+Today's Progress:
+- Explored metadata in HTML.
+- Learned about the different types of metadata tags, such as `meta`, `title`, and `description`.
+- Implemented metadata tags in a web page to provide relevant information to search engines.
+
+Thoughts:
+Day 50 was dedicated to understanding the significance of metadata in HTML. Metadata plays a crucial role in improving search engine optimization and providing important details about web pages. It was exciting to see how metadata tags can influence how search engines index and display our web content.
+
+Progress:
+- Explored different metadata tags in HTML.
+- Successfully implemented metadata in a web page.
+- Gained a deeper understanding of how metadata impacts search engine optimization.
+
+#100DaysOfCode #HTML #Metadata #WebDevelopment
