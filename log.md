@@ -891,3 +891,15 @@ Thoughts: Excited to dive deeper into the world of web design and create more en
 Progress: Explored layout design concepts and implemented basic layouts using HTML.
 
 #100DaysOfCode #HTML #LayoutDesign #WebDevelopment
+
+
+## Day 52: Forms and Validation in HTML
+
+- Explored HTML forms and their usage in web development.
+- Learned how to implement form validation using HTML5 attributes and JavaScript.
+
+Today's Progress: Explored forms and validation in HTML.
+
+Thoughts: Excited to leverage the power of forms and validation to create interactive and user-friendly web applications.
+
+#100DaysOfCode #HTML #Forms #Validation #WebDevelopment
