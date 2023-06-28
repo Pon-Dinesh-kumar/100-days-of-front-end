@@ -955,3 +955,17 @@ Thoughts and Progress:
 I found working with radio buttons and interactive form elements in HTML to be really interesting. It's amazing how these elements can enhance user interactivity and create a better user experience. I'm excited to continue exploring more HTML features and improving my web development skills.
 
 #100DaysOfCode #HTML #FormElements #WebDevelopment
+
+
+Day 57: CSS Web Layout and Flexbox
+[DD.MM.YYYY]
+
+Topics Covered:
+- Explored CSS web layout techniques to structure web pages.
+- Learned about the Flexbox layout model and its powerful features.
+- Implemented Flexbox to create flexible and responsive web layouts.
+
+Thoughts and Progress:
+Today's dive into CSS web layout and Flexbox was enlightening. Understanding how to structure web pages effectively and utilize Flexbox for flexible layouts is essential in modern web development. I'm excited to apply these techniques to create visually appealing and responsive websites.
+
+#100DaysOfCode #CSS #WebLayout #Flexbox #WebDevelopment
