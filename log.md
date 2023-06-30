@@ -999,3 +999,5 @@ Thoughts: Flex charts and CSS grids are valuable tools for creating visually app
 Progress: Today, I dived into flex charts and CSS grids, understanding their concepts and applying them to my web designs. It's fascinating to see how these techniques elevate the user experience and make layouts more efficient.
 
 #100DaysOfCode #FlexCharts #CSSGrids #WebDesign
+
+
