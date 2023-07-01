@@ -1000,4 +1000,18 @@ Progress: Today, I dived into flex charts and CSS grids, understanding their con
 
 #100DaysOfCode #FlexCharts #CSSGrids #WebDesign
 
+Day 60: 2023-05-17
+
+Topics Covered:
+- Explored grid template in CSS
+- Learned about grid layout in CSS
+
+Today's Progress:
+- Explored grid template in CSS and learned how to define custom grid layouts using the grid-template property.
+- Delved into grid layout in CSS and discovered the power of creating flexible and responsive grid-based designs.
+
+Thoughts:
+Grid layouts provide a powerful way to structure and align elements on a webpage. The ability to create custom grid templates and define grid areas opens up endless possibilities for creating stunning layouts.
+
+#100DaysOfCode #GridTemplate #GridLayout #WebDesign
 
