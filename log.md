@@ -1015,3 +1015,16 @@ Grid layouts provide a powerful way to structure and align elements on a webpage
 
 #100DaysOfCode #GridTemplate #GridLayout #WebDesign
 
+Day 61: 2023-05-18
+
+Topics Covered:
+- Explored all CSS selectors and their specificity
+
+Today's Progress:
+- Learned about various CSS selectors including element selectors, class selectors, ID selectors, attribute selectors, pseudo-class selectors, and pseudo-element selectors.
+- Explored the concept of selector specificity and how it determines which styles are applied to elements when multiple selectors target the same element.
+
+Thoughts:
+Understanding CSS selectors and their specificity is crucial for writing efficient and targeted styles. It allows us to precisely select and style elements based on their properties, classes, IDs, and other attributes.
+
+#100DaysOfCode #CSSSelectors #Specificity #WebDevelopment
