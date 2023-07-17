@@ -1229,3 +1229,16 @@ Progress:
 - Emphasized debugging, third-party linters, and UI testing
 
 #100DaysOfCode #CSS #ErrorHandling #Debugging #CodeQuality
+
+Day 76 [ 11.07.2023 ] - Building Portfolio Page
+Today's Progress:
+- Started building my sample portfolio page using HTML and CSS.
+- Incorporated HTML elements into the design of the portfolio page.
+
+Thoughts:
+I'm excited to work on my own portfolio page and showcase my skills and projects. It's a great opportunity to apply what I've learned in HTML and CSS so far. Looking forward to adding more features and making it even better!
+
+Progress:
+I will be tracking my progress on this GitHub repository.
+
+#100DaysOfCode #WebDevelopment #PortfolioPage #HTML #CSS
