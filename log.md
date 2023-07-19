@@ -1255,3 +1255,16 @@ Progress:
 I will be tracking my progress on this GitHub repository.
 
 #100DaysOfCode #WebDevelopment #PortfolioPage #CSS #Styling
+
+# 100 Days Of Code - Log
+
+## Day 78 [ 07.12.2023 ] - CSS Tweaks to Portfolio Site
+
+**Today's Progress**
+- Made some tweaks to my sample portfolio site.
+- Didn't do much coding today, but made minor improvements to my project.
+
+**Thoughts**
+Today was a bit low on coding, but I managed to fine-tune some aspects of my portfolio site. Every small step counts towards progress!
+
+**#100DaysOfCode #WebDevelopment #PortfolioPage #Tweaks #CSS**
