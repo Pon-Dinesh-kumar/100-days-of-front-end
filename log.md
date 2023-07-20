@@ -1268,3 +1268,16 @@ I will be tracking my progress on this GitHub repository.
 Today was a bit low on coding, but I managed to fine-tune some aspects of my portfolio site. Every small step counts towards progress!
 
 **#100DaysOfCode #WebDevelopment #PortfolioPage #Tweaks #CSS**
+
+# 100 Days Of Code - Log
+
+## Day 79 [ 08.12.2023 ] - Back to React!
+
+**Today's Progress**
+- Explored functional components in React.
+- Learned about transpiling JSX in React projects.
+
+**Thoughts**
+It feels great to be back to React! I'm continuing my journey with React, building on the basics I learned a while ago. Functional components and JSX transpiling are essential concepts, and I can't wait to see how they enhance my React projects.
+
+**#100DaysOfCode #ReactJS #FunctionalComponents #JSXTranspiling #WebDevelopment**
