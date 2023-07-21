@@ -1281,3 +1281,15 @@ Today was a bit low on coding, but I managed to fine-tune some aspects of my por
 It feels great to be back to React! I'm continuing my journey with React, building on the basics I learned a while ago. Functional components and JSX transpiling are essential concepts, and I can't wait to see how they enhance my React projects.
 
 **#100DaysOfCode #ReactJS #FunctionalComponents #JSXTranspiling #WebDevelopment**
+
+**Day 80** [Date]
+
+Today's Progress:
+✅ Explored Props in React: Learned how to pass data from parent components to child components, enabling effective communication and data sharing within the app.
+
+✅ Discovered Children in React: Understood how to access and manipulate the content placed between opening and closing tags of a component, allowing greater flexibility in rendering dynamic content.
+
+Thoughts:
+Today's journey back into React has been both exciting and enlightening. Understanding Props and Children has opened up a whole new world of possibilities for creating interactive and dynamic user interfaces. Looking forward to continuing my React exploration and building even more complex and engaging applications!
+
+#100DaysOfCode #ReactJS #WebDevelopment #JavaScript #CodingJourney
