@@ -1335,3 +1335,14 @@ Thoughts:
 Keep coding and learning! 🚀
 
 #100DaysOfCode #ReactJS #WebDevelopment #JavaScript #CodingJourney
+
+Day 84 [ 07.09.2023 ] - JSX Syntax and Arrow Functions
+
+Today's Progress:
+- Explored JSX syntax in React, combining JavaScript and HTML for dynamic UIs.
+- Learned about arrow functions, a concise way to define functions in JavaScript.
+
+Thoughts:
+Day 84 was focused on diving deeper into React and understanding the power of JSX. Arrow functions are a neat addition to my JavaScript arsenal.
+
+#100DaysOfCode #ReactJS #JSX #ArrowFunctions #WebDevelopment #CodingJourney
