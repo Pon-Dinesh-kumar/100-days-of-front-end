@@ -1346,3 +1346,14 @@ Thoughts:
 Day 84 was focused on diving deeper into React and understanding the power of JSX. Arrow functions are a neat addition to my JavaScript arsenal.
 
 #100DaysOfCode #ReactJS #JSX #ArrowFunctions #WebDevelopment #CodingJourney
+
+Day 85 [ 08.09.2023 ] - Embedded JSX Expressions
+
+Today's Progress:
+- Explored Embedded JSX Expressions, allowing dynamic values within JSX tags.
+- Learned how to use curly braces {} to embed JavaScript expressions in JSX.
+
+Thoughts:
+Day 85 was all about harnessing the flexibility of JSX to create more interactive and dynamic user interfaces in React.
+
+#100DaysOfCode #ReactJS #JSX #EmbeddedExpressions #WebDevelopment #CodingJourney
