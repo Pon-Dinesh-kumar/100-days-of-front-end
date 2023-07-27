@@ -1357,3 +1357,19 @@ Thoughts:
 Day 85 was all about harnessing the flexibility of JSX to create more interactive and dynamic user interfaces in React.
 
 #100DaysOfCode #ReactJS #JSX #EmbeddedExpressions #WebDevelopment #CodingJourney
+
+# 100 Days Of Code - Log
+
+## Day 86: [Date]
+
+### Topics Covered:
+- Explored JSX's embedded expressions for dynamic content rendering in React components.
+- Practiced conditional expressions, ternary operators, and map function with JSX.
+
+**Thoughts:** [Add any thoughts here]
+
+**Today's Progress:** [Mention your progress]
+
+**Link to work:** [If applicable]
+
+#100DaysOfCode #ReactJS #JSX #WebDevelopment #CodingJourney
