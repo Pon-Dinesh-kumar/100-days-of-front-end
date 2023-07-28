@@ -1373,3 +1373,19 @@ Day 85 was all about harnessing the flexibility of JSX to create more interactiv
 **Link to work:** [If applicable]
 
 #100DaysOfCode #ReactJS #JSX #WebDevelopment #CodingJourney
+
+# 100 Days Of Code - Log
+
+## Day 87: [Date]
+
+### Expanded on Previous Topic:
+
+Today, I continued exploring JSX's embedded expressions in React components. I delved deeper into using conditional expressions, ternary operators, and the map function to dynamically render content. It's fascinating to see how JSX allows for a more concise and expressive way of building user interfaces in React.
+
+**Today's Progress:** [Mention your progress]
+
+**Thoughts:** [Add any thoughts here]
+
+**Link to work:** [If applicable]
+
+#100DaysOfCode #ReactJS #JSX #WebDevelopment #CodingJourney
