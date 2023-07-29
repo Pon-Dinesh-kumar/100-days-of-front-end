@@ -1389,3 +1389,19 @@ Today, I continued exploring JSX's embedded expressions in React components. I d
 **Link to work:** [If applicable]
 
 #100DaysOfCode #ReactJS #JSX #WebDevelopment #CodingJourney
+
+# 100 Days Of Code - Log
+
+## Day 88: [Date]
+
+**Topics Covered:**
+- Continued learning about JSX expressions in React components.
+- Explored the use of spread operator (...) and destructuring in JSX to handle props and state more effectively.
+
+**Thoughts:**
+[Your thoughts and reflections on today's progress, challenges, or any new insights gained.]
+
+**Progress:**
+[Your progress update or summary of what you accomplished today.]
+
+#100DaysOfCode #ReactJS #JSX #WebDevelopment #CodingJourney
