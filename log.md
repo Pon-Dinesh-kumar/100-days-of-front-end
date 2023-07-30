@@ -1405,3 +1405,19 @@ Today, I continued exploring JSX's embedded expressions in React components. I d
 [Your progress update or summary of what you accomplished today.]
 
 #100DaysOfCode #ReactJS #JSX #WebDevelopment #CodingJourney
+
+# 100 Days Of Code - Log
+
+## Day 89: [Date]
+
+**Topics Covered:**
+- Explored React component lifecycle methods and how they are used to manage component state and perform side effects.
+- Learned about hooks in React, including useState and useEffect, to enhance functional components and manage state more efficiently.
+
+**Thoughts:**
+[Your thoughts and reflections on today's progress, challenges, or any new insights gained.]
+
+**Progress:**
+[Your progress update or summary of what you accomplished today.]
+
+#100DaysOfCode #ReactJS #ReactHooks #WebDevelopment #CodingJourney
