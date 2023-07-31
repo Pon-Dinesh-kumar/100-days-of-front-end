@@ -1421,3 +1421,13 @@ Today, I continued exploring JSX's embedded expressions in React components. I d
 [Your progress update or summary of what you accomplished today.]
 
 #100DaysOfCode #ReactJS #ReactHooks #WebDevelopment #CodingJourney
+
+## Day 90 [09.01.2023]
+
+Today's Progress:
+- Explored React Hooks, including `useState` and `useEffect`.
+
+Thoughts:
+Learning about React Hooks was enlightening! It's incredible how Hooks simplify and streamline state management and side effect handling in functional components. I can see how they will greatly improve my React development process.
+
+#100DaysOfCode #ReactJS #ReactHooks #WebDevelopment #CodingJourney
