@@ -1431,3 +1431,17 @@ Thoughts:
 Learning about React Hooks was enlightening! It's incredible how Hooks simplify and streamline state management and side effect handling in functional components. I can see how they will greatly improve my React development process.
 
 #100DaysOfCode #ReactJS #ReactHooks #WebDevelopment #CodingJourney
+
+## Day 91 [10.01.2023]
+
+Today's Progress:
+- Dived deeper into React Hooks, explored other hooks like `useContext` and `useReducer`.
+- Learned how to manage state and dispatch actions with `useReducer`.
+
+Thoughts:
+Understanding more React Hooks has been an eye-opener! `useContext` simplifies sharing state across components, and `useReducer` provides a powerful way to handle complex state logic. Excited to implement these in my projects!
+
+Progress:
+I will be tracking my progress on this GitHub repository.
+
+#100DaysOfCode #ReactJS #ReactHooks #WebDevelopment #CodingJourney
