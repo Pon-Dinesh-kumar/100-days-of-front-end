@@ -1445,3 +1445,15 @@ Progress:
 I will be tracking my progress on this GitHub repository.
 
 #100DaysOfCode #ReactJS #ReactHooks #WebDevelopment #CodingJourney
+
+Day 92 [DD.MM.YYYY] - Explored React Hooks: useEffect and Custom Hooks
+
+Today's Progress:
+- Continued exploring React Hooks, with a focus on useEffect and custom hooks.
+- useEffect proved helpful in managing side effects and performing actions after rendering.
+- Created custom hooks to encapsulate and reuse logic across components.
+
+Thoughts:
+The useEffect hook in React is a powerful tool for handling side effects, and custom hooks allow for cleaner and more maintainable code. These features make React development even more enjoyable and efficient.
+
+#100DaysOfCode #ReactJS #ReactHooks #WebDevelopment #CodingJourney
