@@ -1457,3 +1457,15 @@ Thoughts:
 The useEffect hook in React is a powerful tool for handling side effects, and custom hooks allow for cleaner and more maintainable code. These features make React development even more enjoyable and efficient.
 
 #100DaysOfCode #ReactJS #ReactHooks #WebDevelopment #CodingJourney
+
+Day 93 [DD.MM.YYYY] - React Context and useContext Hook
+
+Today's Progress:
+- Dived into React Context and learned how to use the useContext hook.
+- Context provides a way to pass data through the component tree without passing props down manually.
+- useContext hook allows for easy access to the context values in functional components.
+
+Thoughts:
+React Context is a fantastic feature for managing global state and simplifying prop drilling. The useContext hook makes it even more convenient to consume and update shared data across components.
+
+#100DaysOfCode #ReactJS #ReactContext #useContext #WebDevelopment #CodingJourney
