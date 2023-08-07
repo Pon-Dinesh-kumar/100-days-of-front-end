@@ -1481,3 +1481,19 @@ Today's Progress:
 ✅ Made further improvements to the theme switching functionality, allowing users to choose between multiple themes.
 
 #100DaysOfCode #ReactJS #ReactContext #useContext #ThemeSwitcher #WebDevelopment #CodingJourney
+
+# 100 Days Of Code - Log
+
+## Day 97: [Date]
+
+Today's Progress:
+✅ Explored the concept of Prop Drilling in React and its challenges.
+✅ Learned about various solutions to mitigate Prop Drilling issues, including using Context API and Redux.
+
+Thoughts:
+Understanding the issues associated with Prop Drilling and exploring solutions like Context API and Redux has given me valuable insights into building more efficient and maintainable React applications.
+
+Progress:
+Continuing my React journey by diving deeper into state management techniques.
+
+#100DaysOfCode #ReactJS #PropDrilling #ContextAPI #Redux #WebDevelopment #CodingJourney
