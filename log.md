@@ -1497,3 +1497,17 @@ Progress:
 Continuing my React journey by diving deeper into state management techniques.
 
 #100DaysOfCode #ReactJS #PropDrilling #ContextAPI #Redux #WebDevelopment #CodingJourney
+
+## Day 98: React Routing and Navigation
+
+**Topics Covered:**
+- Routing in React and React Router
+- Concepts of Route, Link, and Switch for navigation
+
+**Today's Progress:**
+Explored how to implement routing and navigation in React using React Router. Learned about setting up routes, creating navigation links, and using the Switch component for rendering the appropriate component based on the route.
+
+**Thoughts:**
+Understanding how to navigate between different pages and components in a React application using React Router opens up possibilities for creating more complex and interactive user interfaces.
+
+**#100DaysOfCode #ReactJS #ReactRouter #WebDevelopment**
