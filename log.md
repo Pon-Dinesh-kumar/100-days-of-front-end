@@ -1511,3 +1511,17 @@ Explored how to implement routing and navigation in React using React Router. Le
 Understanding how to navigate between different pages and components in a React application using React Router opens up possibilities for creating more complex and interactive user interfaces.
 
 **#100DaysOfCode #ReactJS #ReactRouter #WebDevelopment**
+
+## Day 99: Nested Routes in React
+
+**Topics Covered:**
+- Implementing nested routes in React applications
+- Creating nested route structures using React Router
+
+**Today's Progress:**
+Explored the concept of nested routes in React using React Router. Learned how to create a hierarchical structure of routes where components are rendered within other components based on the URL.
+
+**Thoughts:**
+Nested routes provide a way to organize and structure complex React applications by breaking them down into smaller, manageable components. This approach enhances modularity and maintainability.
+
+**#100DaysOfCode #ReactJS #ReactRouter #WebDevelopment**
